@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# YOLO Outputs
+runs/
+
+# Temporary Files
+hasil_deteksi.jpg
+laporan_deteksi.pdf
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistem Operasi
+.DS_Store
+Thumbs.db
