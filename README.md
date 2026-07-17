@@ -2,7 +2,7 @@
 
 Implementasi Algoritma YOLOv8 untuk Deteksi Hama dan Penyakit pada Buah Kakao Berbasis Computer Vision.
 
-## Fitur
+# Fitur
 
 - Upload gambar
 - Deteksi penyakit
@@ -12,16 +12,16 @@ Implementasi Algoritma YOLOv8 untuk Deteksi Hama dan Penyakit pada Buah Kakao Be
 - Rekomendasi penanganan
 - Download laporan PDF
 
-## Dataset
+# Dataset
 
 Roboflow Cocoa Disease Dataset
 [https://universe.roboflow.com/skripsi-mopua/deteksi-penyakit-buah-kakao/dataset/1]
 
-## Model
+# Model
 
 YOLOv8
 
-## Cara Menjalankan
+# Cara Menjalankan
 
 pip install -r requirements.txt
 
